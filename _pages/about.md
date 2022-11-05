@@ -3,16 +3,7 @@ layout: about
 title: About Me
 author: Johnathan Smith
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+#signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+My name is Jiaxuan Tang and currently working at Huawei doing simulation algorithms related work. I completed my undergraduate and graduate course in July 2022 at Imperial College London. <br> My interest lies on computer-aided engineering, simulations incluing finite element and computational fluid dynamics, and computer graphics especially physics simulation and computational geometry. I am always interested in using computer language describing numerous physics in the real world. <br> If you are interested in industrial software, CAE or physics simulations, do not hesitate to contact me! At the same time, it is welcome that you can chat about anime, cycling and anythings...
