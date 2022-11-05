@@ -4,8 +4,7 @@ title:  Methods for numerical integration with code
 date:   2020-02-09 15:05:55 +0700
 image:  /assets/images/blog/post-5.jpg
 author: Jiaxuan Tang
-tags:   - Matlab
-        - Numerical Methods
+tags:   Matlab, Numerical Methods
 ---
 
 **此篇博客为Imperial College大二数值分析课程的作业1 代码会附上**

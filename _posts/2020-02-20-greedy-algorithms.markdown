@@ -4,8 +4,7 @@ title:  Greedy Algorithms
 date:   2020-02-20 15:05:55 +0700
 image:  /assets/images/blog/post-2.jpg
 author: Jiaxuan Tang
-tags:   - Python
-        - Algorithms
+tags:   Python, Algorithms
 ---
 
 **This post is talking about greedy algorithms**

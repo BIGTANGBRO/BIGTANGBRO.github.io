@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-1.jpg
 author: Jiaxuan Tang
 tags:   Python, Algorithms
 ---
-#### Notes from course Data Structure and algorithms from coursera
+**Notes from course Data Structure and algorithms from coursera**
 
 > Divide and conquer algorithm is very important and always referred as '分治法'.
 
