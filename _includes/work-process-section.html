@@ -9,7 +9,7 @@
       {% for work in site.data.settings.work-process %}
       <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
         <img src="{{ work.icon | relative_url }}" class="mb-4" alt="icon">
-        <h4 class="mb-4"><a href="{{work.link}}">{{ work.title }}</a></h4>
+        <h4 class="mb-4"><a target="_blank" href="{{work.link}}">{{ work.title }}</a></h4>
         <p>{{ work.content | markdownify }}</p>
       </div>
       {% endfor %}
