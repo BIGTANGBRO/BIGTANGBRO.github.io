@@ -2,7 +2,7 @@
 layout: post
 title:  Divde and Conquer Algorithms
 date:   2020-02-09 15:05:55 +0700
-image:  /assets/images/blog/post-1.jpg
+image:  /assets/images/blog/post-3.jpg
 author: Jiaxuan Tang
 tags:   Python, Algorithms
 ---
