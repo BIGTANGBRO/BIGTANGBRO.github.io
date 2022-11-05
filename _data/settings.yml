@@ -57,7 +57,7 @@ blurb-btn-name: know more
 # About Page
 
 # Resume Section
-resume:
+work-process:
   - title: "CV in Chinese"
     icon: "assets/images/icons/plan.png"
     link: "CV_CN.pdf"
