@@ -4,8 +4,7 @@ title:  Divde and Conquer Algorithms
 date:   2020-02-09 15:05:55 +0700
 image:  /assets/images/blog/post-1.jpg
 author: Jiaxuan Tang
-tags:   - Python
-        - Algorithms
+tags:   Python, Algorithms
 ---
 #### Notes from course Data Structure and algorithms from coursera
 

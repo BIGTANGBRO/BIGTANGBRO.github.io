@@ -8,9 +8,7 @@ tags:   - Matlab
         - Numerical Methods
 ---
 
-# 前言
-
->此篇博客为Imperial College大二数值分析课程的作业1 代码会附上
+**此篇博客为Imperial College大二数值分析课程的作业1 代码会附上**
 
 # 积分方法介绍
 
