@@ -57,42 +57,42 @@ blurb-btn-name: know more
 # About Page
 
 # Work Process Section
-work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title: "Design and Develop"
-    icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#work-process:
+#  - title: "Research and Plan"
+#    icon: "assets/images/icons/plan.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#
+#  - title: "Design and Develop"
+#    icon: "assets/images/icons/design.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#
+#  - title: "Deliver"
+#    icon: "assets/images/icons/print.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
-
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
-
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+#team:
+#  - title: "Jack Schenziwe"
+#    image: "assets/images/team/member-1.png"
+#    designation: "Project Manager"
+#
+#  - title: "Julias Carlie"
+#    image: "assets/images/team/member-2.png"
+#    designation: "Web Developer"
+#
+#  - title: "John Doe"
+#    image: "assets/images/team/member-3.png"
+#    designation: "Designer"
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Computational Fluid Dynamics, color: "#fdb157", value: "60%" }
+  - { name: Finite Element, color: "#9473e6", value: "70%" }
+  - { name: C++/Python/Java/Matlab, color: "#bdecf6", value: "50%" }
+  - { name: Graphics, color: "#ffbcaa", value: "20%" }
 
 #-------------------------------
 # Exprerience Section
@@ -100,22 +100,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Engineering Test Engineer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "March 2021 - Jun 2021",
+      organization: "Bosch",
     }
   - {
-      name: UX & UI Designer,
+      name: Gemetry Algorithms Engineer Intern,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "June 2021 - Sep 2021",
+      organization: "Coohom",
     }
   - {
-      name: Senior UI Designer,
+      name: Simulation Algorithms Engineer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Sep 2022 - Present",
+      organization: "Huawei",
     }
 
 #-------------------------------
