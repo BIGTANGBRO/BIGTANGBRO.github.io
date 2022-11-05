@@ -60,12 +60,12 @@ blurb-btn-name: know more
 work-process:
   - title: "CV in Chinese"
     icon: "assets/images/icons/plan.png"
-    link: "CV_CN.pdf"
+    link: "assets/CVs/CV_CN.pdf"
     #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
   - title: "CV in English"
     icon: "assets/images/icons/design.png"
-    link: "_includes/CV_EN.pdf"
+    link: "assets/CVs/CV_CN.pdf"
     #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
