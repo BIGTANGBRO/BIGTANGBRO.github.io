@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Methods for numerical integration with code
+title:  Divde and Conquer Algorithms
 date:   2020-02-09 15:05:55 +0700
 image:  /assets/images/blog/post-1.jpg
 author: Jiaxuan Tang
