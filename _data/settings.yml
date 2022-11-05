@@ -132,8 +132,13 @@ education:
       organization: "Imperial College London",
     }
   - {
-      name: Higher Secondary Certificat,
+      name: Senior Secondary Certificat,
       date: "2018",
+      organization: "Ivy Experimental High School",
+    }
+  - {
+      name: Junior Secondary Certificat,
+      date: "2015",
       organization: "Ivy Experimental High School",
     }
 
