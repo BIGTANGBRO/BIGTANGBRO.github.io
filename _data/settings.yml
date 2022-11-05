@@ -48,8 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Welcome to my personal website. My name is Jiaxuan Tang and currently working at Huawei doing simulation algorithms related work. I completed my undergraduate and graduate course in July 2022 at Imperial College London.
-My interest lies on computer-aided engineering, simulations incluing finite element and computational fluid dynamics, and computer graphics especially physics simulation and computational geometry.
+blurb: Welcome to my personal website. My name is Jiaxuan Tang and currently working at Huawei doing simulation algorithms related work. I completed my undergraduate and graduate course in July 2022 at Imperial College London. <br> My interest lies on computer-aided engineering, simulations incluing finite element and computational fluid dynamics, and computer graphics especially physics simulation and computational geometry.
 
 
 blurb-btn-link: "/about"
