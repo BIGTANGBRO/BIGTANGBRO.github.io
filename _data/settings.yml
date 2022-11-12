@@ -65,7 +65,7 @@ work-process:
 
   - title: "CV in English"
     icon: "assets/images/icons/design.png"
-    link: "assets/CVs/CV_EN2.pdf"
+    link: "assets/CVs/CV_EN_2.pdf"
     #content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
